@@ -1,0 +1,4 @@
+Uzair	100
+Ali	75
+Hashir	50
+Naveed	0
